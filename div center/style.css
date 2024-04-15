@@ -1,0 +1,13 @@
+body{
+    background-color: darkred;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.container {
+    background-color: darkgreen;
+    width: 200px;
+    height: 200px;
+}
